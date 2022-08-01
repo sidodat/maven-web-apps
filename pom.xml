@@ -12,8 +12,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>sidodat</name>
+		<url>http://sidodat/</url>
 	</organization>
 
 	<properties>
@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>sidodat Releases Nexus Repository</name>
 	      <url> http://34.228.56.223:4000/content/repositories/sidodat2/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>sidodat Snapshot Nexus Repository </name>
 	      <url>http://34.228.56.223:4000/content/repositories/sidodat-snapshot/</url>
 	    </snapshotRepository>
 	    
