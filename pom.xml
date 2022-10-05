@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>sidodat Releases Nexus Repository</name>
-	      <url> http://34.228.56.223:4000/content/repositories/sidodat2/</url>
+	      <url> http://18.234.65.155:8250/sidodat/repository/sidodat-releases//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>sidodat Snapshot Nexus Repository </name>
-	      <url>http://34.228.56.223:4000/content/repositories/sidodat-snapshot/</url>
+	      <url>http://18.234.65.155:8250/sidodat/repository/sidodat-snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
